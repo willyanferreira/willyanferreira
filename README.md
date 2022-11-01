@@ -7,7 +7,7 @@
 
 <hr />
 
-<h3>💻Tecnologias que mais tenho habilidades!</h3>
+<h3>💻Tecnologias que mais tenho habilidades:</h3>
 
 <div style="display: inline-block"><br/>
 <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
