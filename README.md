@@ -1,8 +1,8 @@
 <h3>Olá! Me chamo Willyan e estou estudando para me tornar um desenvolvedor full stack especializado em javascript.</h3>
 
 <div align="center">
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willyanferreira&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
-<img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=willyanferreira&theme=tokyonight&hide_border=true"/>
+<img width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willyanferreira&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
+<img width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=willyanferreira&theme=tokyonight&hide_border=true"/>
 </div>
 
 <hr />
