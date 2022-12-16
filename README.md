@@ -1,4 +1,4 @@
-<h3>Olá! Me chamo Willyan e estou estudando para me tornar um desenvolvedor full stack especializado em javascript.</h3>
+<h3>Estudando para me tornar um desenvolvedor full stack especializado em javascript.</h3>
 
 <div align="center">
 <img width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willyanferreira&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
